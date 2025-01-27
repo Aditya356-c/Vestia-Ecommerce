@@ -2,7 +2,7 @@
 <br/>
 
 <!-- Banner -->
-<img src="" width="1800px" alt="Vestia_banner">
+<img src="https://github.com/user-attachments/assets/de2384ff-a586-4dd6-b714-de2ae8756058" width="1800px" alt="Vestia_banner">
 <br/>
 
 <!-- Tech Badges -->
@@ -12,7 +12,7 @@
 </div>
 <!-- Title -->
 <h3>E-commerce Clothes Shopping Platform</h3>
-<h6>Mini-project | Beginner friendly | Basic</h6>
+<h6>Mini-project | Beginner friendly </h6>
 </div>
 <br/>
 
@@ -99,8 +99,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Aditya356-c/Vestia-E-com.git
-cd Vestia-E-com
+git clone https://github.com/Aditya356-c/Vestia-Ecommerce.git
+cd Vestia-Ecommerce
 ```
 
 **Installation**
@@ -118,7 +118,7 @@ Create a new file named `.env` in the root of your project (client & server) and
 ```env
 SERVER_PORT = (example : 8080)
 CLIENT_PORT = (example : http://localhost:5500)
-MONGODB_URI =
+MONGODB_URI = (example : mongodb+srv://<username>:<password>@cluster0.mongodb.net/<yourDatabaseName>?retryWrites=true&w=majority)
 ```
 
 **In ApiService.js file**
@@ -455,14 +455,14 @@ MongoDB Atlas : https://www.mongodb.com/atlas
 
 <!-- ScreenShorts-->
 
-## <a name="screenShorts">🎴 ScreenShorts</a>
+## <a name="ScreenShorts">🎴 ScreenShorts</a>
 
-<img src="" alt="hero_Section">
-<img src="" alt="newArrival_Section">
-<img src="" alt="menWear_Section">
-<img src="" alt="productDetail_page">
-<img src="" alt="cart_page">
-<img src="" alt="Register_model">
+<img src="https://github.com/user-attachments/assets/3d540442-ee52-4cce-8ce7-4c4adeaaffe1" alt="hero_Section">
+<img src="https://github.com/user-attachments/assets/e94393f4-c5dc-46fd-ab2b-16608d8d0267" alt="newArrival_Section">
+<img src="https://github.com/user-attachments/assets/830ed951-ba1e-474e-97de-04247de6c1ce" alt="menWear_Section">
+<img src="https://github.com/user-attachments/assets/6728329f-e182-4fc7-b146-b2969cef1d12" alt="productDetail_page">
+<img src="https://github.com/user-attachments/assets/cc9c7237-211c-458a-b3e7-a046cb16eab8" alt="cart_page">
+<img src="https://github.com/user-attachments/assets/13e8e188-4c20-4bf6-a17a-f0c5b0977890" alt="Register_model">
 
 <br/>
 <!-- Footer  -->
